@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HelpDesk.DAL/HelpDesk.DAL.csproj" />
+  <Project Path="HelpDesk.Service/HelpDesk.Service.csproj" />
+  <Project Path="HelpDesk.WebApi/HelpDesk.WebApi.csproj" />
+</Solution>
